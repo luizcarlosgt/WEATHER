@@ -5,4 +5,4 @@
 </p>
 
 <h1 align="center">WEATHER</h1>
-<p align="center">Um simples dropdown feito com html, css e javascript!</p>
+<p align="center">Uma aplição simple e bonita de previsão do tempo feito com html, css e javascript!</p>
